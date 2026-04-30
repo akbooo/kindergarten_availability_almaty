@@ -2,3 +2,7 @@ streamlit
 folium
 streamlit-folium
 pandas
+data_engine
+networkx
+map_builder
+ui_components
