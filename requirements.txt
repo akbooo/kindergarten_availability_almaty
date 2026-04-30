@@ -6,3 +6,4 @@ streamlit-folium
 networkx
 osmnx
 rasterio
+scipy
